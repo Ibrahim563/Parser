@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CATALOGUE>
+    <CD>
+        <Title>Ibrahim hany</Title>
+        <Artist>Hima hany</Artist>
+        <Country>Egypt</Country>
+        <Company>Masr</Company>
+        <Price>19.5</Price>
+        <Year>1999</Year>
+    </CD>
+</CATALOGUE>
